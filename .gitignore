@@ -1,0 +1,37 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Build output
+**/target/
+**/build/
+**/out/
+
+# Logs
+**/logs/
+**/*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+**/.env
+
+# Maven
+.mvn/
+**/mvnw
+**/mvnw.cmd
+
+# Process IDs
+pids.txt
+
+# Compiled class files
+**/*.class
+
+# Package files
+**/*.jar
+**/*.war
+**/*.ear
